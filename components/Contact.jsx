@@ -30,7 +30,7 @@ const Contact = () => {
                 <p>Front End Developer</p>
                 <p className="py-4">
                   I am avaliable for freelance or full-time positions. Contact
-                  me and let's go fromt there.
+                  me and lets go fromt there.
                 </p>
               </div>
               <div>
@@ -100,7 +100,7 @@ const Contact = () => {
           </div>
         </div>
         <div className="flex justify-center py-12">
-            <Link href='/'>
+            <Link href="/">
                 <div className="rounded-full shadow-lg border border-[#ffef0f] p-4 cursor-pointer hover:scale-110 ease-in duration-300">
                     <HiOutlineChevronDoubleUp className=" m-auto text-white" size={30}/>
                 </div>

@@ -15,7 +15,7 @@ const About = () => {
           </p>
           <h2 className="py-4">Who I Am</h2>
           <p className=" py-2 text-gray-50">
-            // Im Built different
+             Im Built different
           </p>
           <p className=" py-2 text-gray-50">
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quae, sed
