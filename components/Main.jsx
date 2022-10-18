@@ -1,7 +1,7 @@
 import React from "react";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import { FaGithub, FaLinkedinIn } from "react-icons/fa";
-import {AiOutlineMail} from "react-icons/Ai"
+import {AiOutlineMail} from "react-icons/ai"
 
 const main = () => {
   return (
