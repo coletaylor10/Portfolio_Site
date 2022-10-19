@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import htmlImg from "../public/assets/Skills/html.png"
+import htmlImg from "../public/assets/skills/html.png"
 
 const Skills = () => {
   return (
@@ -29,7 +29,7 @@ const Skills = () => {
             <div className=" grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="../public/assets/Skills/CSS.png"
+                  src="../public/assets/skills/css.png"
                   width="64px"
                   height="64px"
                   alt="/"
@@ -44,7 +44,7 @@ const Skills = () => {
             <div className=" grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="../public/assets/Skills/javascript.png"
+                  src="../public/assets/skills/javascript.png"
                   width="64px"
                   height="64px"
                   alt="/"
@@ -59,7 +59,7 @@ const Skills = () => {
             <div className=" grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="/../public/assets/Skills/nextjs.png"
+                  src="/../public/assets/skills/nextjs.png"
                   width="64px"
                   height="64px"
                   alt="/"
@@ -74,7 +74,7 @@ const Skills = () => {
             <div className=" grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="/../public/assets/Skills/react.png"
+                  src="/../public/assets/skills/react.png"
                   width="64px"
                   height="64px"
                   alt="/"
@@ -89,7 +89,7 @@ const Skills = () => {
             <div className=" grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="/../public/assets/Skills/tailwind.png"
+                  src="/../public/assets/skills/tailwind.png"
                   width="64px"
                   height="64px"
                   alt="/"
@@ -104,7 +104,7 @@ const Skills = () => {
             <div className=" grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="/../public/assets/Skills/AWS.png"
+                  src="/../public/assets/skills/aws.png"
                   width="64px"
                   height="64px"
                   alt="/"
@@ -119,7 +119,7 @@ const Skills = () => {
             <div className=" grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="/../public/assets/Skills/Github1.png"
+                  src="/../public/assets/skills/github1.png"
                   width="64px"
                   height="64px"
                   alt="/"
