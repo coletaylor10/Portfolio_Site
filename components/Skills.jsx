@@ -1,5 +1,6 @@
 import React from "react";
 import Image from "next/image";
+import htmlImg from "../public/assets/Skills/html.png"
 
 const Skills = () => {
   return (
@@ -15,9 +16,7 @@ const Skills = () => {
             <div className=" grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="/../public/assets/Skills/html.png"
-                  width="64px"
-                  height="64px"
+                  src={htmlImg}
                   alt="/"
                 />
               </div>
@@ -30,7 +29,7 @@ const Skills = () => {
             <div className=" grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="/../public/assets/Skills/CSS.png"
+                  src="../public/assets/Skills/CSS.png"
                   width="64px"
                   height="64px"
                   alt="/"
@@ -45,7 +44,7 @@ const Skills = () => {
             <div className=" grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="/../public/assets/Skills/javascript.png"
+                  src="../public/assets/Skills/javascript.png"
                   width="64px"
                   height="64px"
                   alt="/"
